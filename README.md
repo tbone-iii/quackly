@@ -1,6 +1,6 @@
 # Quackly
 
-A companion-project that allows basic REST API deployment and basic data storage, as well as email notifications through an SMTP server, for submitting bug reports, questions, and comments. The tool returns an appropriate message for the request. If a question is submitted that is similar enough to another question, through eventually through RAG (Retrieval-Augmented Generation) we could parse through questions and author-provided answers to
+A companion-project that allows basic REST API deployment and basic data storage, as well as email notifications through an SMTP server, for submitting bug reports, questions, and comments. The tool returns an appropriate message for the request. If a question is submitted that is similar enough to another question, through eventually through RAG (Retrieval-Augmented Generation) we could parse through questions and author-provided answers to said questions. Future development will include automatic data-tagging and bug report grouping (such as grouping duplicates) to provide further insights into the user report landscape.
 
 ## Intended Use-Case
 
